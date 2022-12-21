@@ -1,0 +1,13 @@
+Code 1: 
+
+B is a string so it can’t be bigger than A, which is an Integer.  This causes the code to have an error and it doesn’t work. 
+
+Code 2: 
+
+Output: 
+
+Emil Refsnes 
+
+Tobias Refsnes 
+
+Linus Refsnes 
